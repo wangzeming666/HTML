@@ -74,3 +74,4 @@ HTML <link> 元素
 <link rel="stylesheet" type="text/css" href="mystyle.css" />
 </head>
 
+class 属性不能在以下 HTML 元素中使用：base, head, html, meta, param, script, style 以及 title。
