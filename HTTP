@@ -90,4 +90,4 @@ whois工具
 urlencode  url后的参数如果非ASCII会被浏览器转为ascii码，爬虫需要模拟urlencode对参数编码向浏览器发送请求。
 
 大顶端和小顶端(滑稽)
-
+big endian  little endian
